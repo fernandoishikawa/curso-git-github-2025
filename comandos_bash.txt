@@ -5,3 +5,5 @@ cat -> exibe conteúdo do arquivo
 rm -> remove arquivo do diretório
 rm - rf -> remove de forma recursiva e forçada todos os diretórios
 git log -> mostra todo o histórico de commit
+
+foda-se

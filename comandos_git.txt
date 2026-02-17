@@ -1,0 +1,13 @@
+Fluxo de Trabalho
+
+Criar o diretório do projeto
+Iniciar o Git, (git init .)
+Edita ou cria arquivos
+Git status
+Git add <nome arquivo>
+Git status
+Git commit -m “mensagem”
+Git status
+Volta para o passo 3
+
+foda-se
