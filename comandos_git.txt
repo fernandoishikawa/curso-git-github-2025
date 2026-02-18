@@ -1,3 +1,8 @@
+Git init.            -> Inicia um repositório
+Git status           -> Me mostra como está o meu diretório
+Gir add              -> adicionar aquilo que quero que vá para o commit, sinaliza o que vai entrar no checkpoint
+
+
 Fluxo de Trabalho
 
 Criar o diretório do projeto
